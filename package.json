@@ -45,7 +45,7 @@
     "html-webpack-plugin": "^5.1.0",
     "husky": "4",
     "lint-staged": "^10.5.4",
-    "prettier": "^2.2.1",
+    "prettier": "^2.5.1",
     "react-refresh": "^0.9.0",
     "sass": "^1.45.1",
     "sass-loader": "^12.4.0",
