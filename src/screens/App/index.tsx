@@ -1,6 +1,6 @@
-import "./styles.scss";
-import IMAGE from "../../assets/TTCoach.png";
-import Logo from "../../assets/logo.svg";
+import './styles.scss'
+import IMAGE from '../../assets/TTCoach.png'
+import Logo from '../../assets/logo.svg'
 
 export const App = () => {
   return (
@@ -10,5 +10,5 @@ export const App = () => {
       <img src={IMAGE} alt="React logo" width="300" height="300" />
       <img src={Logo} alt="React logo" width="300" />
     </>
-  );
-};
+  )
+}
