@@ -10,9 +10,9 @@ module.exports = {
     open: true,
   },
   plugins: [
-    new ReactRefreshWebpackPlugin(),
+    new ReactRefreshWebpackPlugin(),    
     new Dotenv({
       path: '.env.dev'
-    })
+    }),
   ],
 }
